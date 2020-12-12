@@ -1,0 +1,138 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PrivacyPage tests renders correctly 1`] = `
+<div>
+  <div>
+    <nav>
+      <ul>
+        <li>
+          The Sports Blog
+        </li>
+        <li>
+          <a
+            class="link"
+            href="/"
+          >
+            HOME
+          </a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="/nba"
+          >
+            NBA
+          </a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="/nfl"
+          >
+            NFL
+          </a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="/nhl"
+          >
+            NHL
+          </a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="/mbl"
+          >
+            MBL
+          </a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="/soccer"
+          >
+            SOCCER
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <div
+      class="container"
+    >
+      <div
+        class="flexcontainer"
+      >
+        <h1>
+          Privacy Policy
+        </h1>
+        <h3>
+          What information do we collect?
+        </h3>
+        <p>
+          When you register as a user of this site, we may collect your email address, name and address, telephone number, and payment information (e.g., credit card number and billing address). Additionally, when you visit this site, we automatically collect some non-personally identifiable computer information, such as the type of computer operating system (such as Windows XP or Mac OS) and web browser (such as Chrome or Internet Explorer) you are using, information regarding your Internet service provider, and the frequency with which you visit various parts of this site. We use this information to manage the Website and make it more interesting and useful to you. We may offer public commenting through this site. If you use our commenting system and disclose personally identifiable information, you should be aware that such information could be read, collected or used by other users. We are not responsible for the personally identifiable information you choose to submit through public forums.
+        </p>
+        <h3>
+          What information do we collect?
+        </h3>
+        <p>
+          When you register as a user of this site, we may collect your email address, name and address, telephone number, and payment information (e.g., credit card number and billing address). Additionally, when you visit this site, we automatically collect some non-personally identifiable computer information, such as the type of computer operating system (such as Windows XP or Mac OS) and web browser (such as Chrome or Internet Explorer) you are using, information regarding your Internet service provider, and the frequency with which you visit various parts of this site. We use this information to manage the Website and make it more interesting and useful to you. We may offer public commenting through this site. If you use our commenting system and disclose personally identifiable information, you should be aware that such information could be read, collected or used by other users. We are not responsible for the personally identifiable information you choose to submit through public forums.
+        </p>
+        <h3>
+          What information do we collect?
+        </h3>
+        <p>
+          When you register as a user of this site, we may collect your email address, name and address, telephone number, and payment information (e.g., credit card number and billing address). Additionally, when you visit this site, we automatically collect some non-personally identifiable computer information, such as the type of computer operating system (such as Windows XP or Mac OS) and web browser (such as Chrome or Internet Explorer) you are using, information regarding your Internet service provider, and the frequency with which you visit various parts of this site. We use this information to manage the Website and make it more interesting and useful to you. We may offer public commenting through this site. If you use our commenting system and disclose personally identifiable information, you should be aware that such information could be read, collected or used by other users. We are not responsible for the personally identifiable information you choose to submit through public forums.
+        </p>
+        <h3>
+          What information do we collect?
+        </h3>
+        <p>
+          When you register as a user of this site, we may collect your email address, name and address, telephone number, and payment information (e.g., credit card number and billing address). Additionally, when you visit this site, we automatically collect some non-personally identifiable computer information, such as the type of computer operating system (such as Windows XP or Mac OS) and web browser (such as Chrome or Internet Explorer) you are using, information regarding your Internet service provider, and the frequency with which you visit various parts of this site. We use this information to manage the Website and make it more interesting and useful to you. We may offer public commenting through this site. If you use our commenting system and disclose personally identifiable information, you should be aware that such information could be read, collected or used by other users. We are not responsible for the personally identifiable information you choose to submit through public forums.
+        </p>
+        <h3>
+          What information do we collect?
+        </h3>
+        <p>
+          When you register as a user of this site, we may collect your email address, name and address, telephone number, and payment information (e.g., credit card number and billing address). Additionally, when you visit this site, we automatically collect some non-personally identifiable computer information, such as the type of computer operating system (such as Windows XP or Mac OS) and web browser (such as Chrome or Internet Explorer) you are using, information regarding your Internet service provider, and the frequency with which you visit various parts of this site. We use this information to manage the Website and make it more interesting and useful to you. We may offer public commenting through this site. If you use our commenting system and disclose personally identifiable information, you should be aware that such information could be read, collected or used by other users. We are not responsible for the personally identifiable information you choose to submit through public forums.
+        </p>
+        <h3>
+          What information do we collect?
+        </h3>
+        <p>
+          When you register as a user of this site, we may collect your email address, name and address, telephone number, and payment information (e.g., credit card number and billing address). Additionally, when you visit this site, we automatically collect some non-personally identifiable computer information, such as the type of computer operating system (such as Windows XP or Mac OS) and web browser (such as Chrome or Internet Explorer) you are using, information regarding your Internet service provider, and the frequency with which you visit various parts of this site. We use this information to manage the Website and make it more interesting and useful to you. We may offer public commenting through this site. If you use our commenting system and disclose personally identifiable information, you should be aware that such information could be read, collected or used by other users. We are not responsible for the personally identifiable information you choose to submit through public forums.
+        </p>
+      </div>
+    </div>
+    <footer>
+      <ul>
+        <li>
+          <a
+            class="link"
+            href="/about"
+          >
+            About
+          </a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="/subscribe"
+          >
+            Subscribe
+          </a>
+        </li>
+        <li>
+          <a
+            class="link"
+            href="/privacy"
+          >
+            Privacy
+          </a>
+        </li>
+      </ul>
+    </footer>
+  </div>
+</div>
+`;

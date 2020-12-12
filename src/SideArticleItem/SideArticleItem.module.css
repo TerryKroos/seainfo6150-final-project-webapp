@@ -1,0 +1,33 @@
+.container {
+    height: 70%;
+    width: 30%;
+    background-color: #F0F0F0;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+    color: #556575;
+
+    
+   
+}
+.img {
+ width: 100%;   
+ height: auto;
+ max-height: 170px;
+
+}
+.articletext {
+    display: flex;
+    justify-content: center;
+    background-color: #F0F0F0;
+    height: 4em;
+    width:100%;
+    font-size: 14px;
+}
+.link{
+    text-decoration: none;
+    color: #556575;
+    cursor: pointer;
+  }
+  .link:hover{
+    color: #282828; 
+  }

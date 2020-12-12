@@ -1,10 +1,8 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders the home component correctly 1`] = `
+exports[`SportNewsPage tests renders correctly 1`] = `
 <div>
-  <div
-    class="container"
-  >
+  <div>
     <nav>
       <ul>
         <li>
@@ -60,9 +58,11 @@ exports[`renders the home component correctly 1`] = `
         </li>
       </ul>
     </nav>
-    <div>
+    <div
+      class="container"
+    >
       <ul
-        class="container"
+        class="articles"
       />
     </div>
     <footer>

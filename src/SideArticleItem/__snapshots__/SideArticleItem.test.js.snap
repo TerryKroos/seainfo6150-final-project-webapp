@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SideArticleItem tests renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <img
+      alt="article img"
+      class="img"
+    />
+    <div
+      class="articletext"
+    >
+      <a
+        class="link"
+        href=""
+      />
+    </div>
+  </div>
+</div>
+`;

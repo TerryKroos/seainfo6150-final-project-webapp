@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleListOther tests renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <ul
+      class="articles"
+    />
+  </div>
+</div>
+`;

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ArticleItemOther tests renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="imagediv"
+    >
+      <img
+        alt="article img"
+        class="image"
+      />
+    </div>
+    <div
+      class="articletext"
+    >
+      <a
+        class="link"
+        href=""
+      />
+      <time
+        datetime="2018-11-22"
+      />
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,97 @@
+.flexcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60em;
+    font-family: 'Inter', sans-serif;
+   background-color: #BBBBBB;
+  
+}
+.container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        height: 45em;
+        background-color: #BBBBBB;
+        color: black;
+}
+.buttondiv{
+    display: flex;
+    margin-top: 20px;  
+    justify-content: center;
+}
+.numberandemail{
+    text-align: center;
+    color: black;
+
+}
+.radio{
+    margin-left: 0px;
+}
+.radiocontainer {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+
+.select {
+    
+    border-radius: 3px;
+    height: 3em;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    border: 1px solid #D1D5D9;
+    color: #BBBBBB;;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.textInput {
+
+    height: 30px;
+    width: 25em;
+    margin: 7px 0px;
+    padding: 9px;
+    border: 1px solid #D1D5D9;
+    border-radius: 4px;
+
+}
+
+::placeholder { 
+    color: #BBBBBB;
+    opacity: 1; 
+    font-size: 12px;
+  }
+
+
+textarea {
+    margin: 7px 0px;
+}
+button {
+    height: 30px;
+    width: 40%;
+    background-color: #827ffe;
+    border: 1px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover {
+   background-color: #6a5acd;
+}
+
+label {
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+    font-size: 13px;
+}
+.error {
+    color: red;
+    font-size: 12px;
+}

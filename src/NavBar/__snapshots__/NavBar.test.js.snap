@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NavBar tests renders correctly 1`] = `
+<div>
+  <nav>
+    <ul>
+      <li>
+        The Sports Blog
+      </li>
+      <li>
+        <a
+          class="link"
+          href="/"
+        >
+          HOME
+        </a>
+      </li>
+      <li>
+        <a
+          class="link"
+          href="/nba"
+        >
+          NBA
+        </a>
+      </li>
+      <li>
+        <a
+          class="link"
+          href="/nfl"
+        >
+          NFL
+        </a>
+      </li>
+      <li>
+        <a
+          class="link"
+          href="/nhl"
+        >
+          NHL
+        </a>
+      </li>
+      <li>
+        <a
+          class="link"
+          href="/mbl"
+        >
+          MBL
+        </a>
+      </li>
+      <li>
+        <a
+          class="link"
+          href="/soccer"
+        >
+          SOCCER
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;

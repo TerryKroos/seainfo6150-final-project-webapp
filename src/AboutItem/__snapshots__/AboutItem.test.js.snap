@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AboutItem tests renders correctly 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <img
+      alt="ronaldopic"
+      src="ronaldo.jpg"
+    />
+    <div
+      class="abouttext"
+    >
+      <h4 />
+      <p
+        class="paragraph"
+      />
+    </div>
+  </div>
+</div>
+`;

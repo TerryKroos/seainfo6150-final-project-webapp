@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Inter', sans-serif;
+}
+
+.flexcontainer{
+    width: 60em;
+}
