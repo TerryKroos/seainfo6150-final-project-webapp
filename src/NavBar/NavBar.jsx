@@ -8,41 +8,41 @@ const NavBar = () => {
            <ul>
               <li >The Sports Blog</li>
               <li>
-                  <Router>
+                  
                   <Link className={styles.link} to="/">
                  HOME</Link>
-                  </Router>
+            
               </li>
               <li>
-              <Router>
+    
                   <Link className={styles.link} to="/nba">
                       NBA
                  </Link>
-                  </Router>
+            
               </li>
               <li>
-              <Router>
+        
                   <Link className={styles.link} to="/nfl">
                  NFL</Link>
-                  </Router>
+        
               </li>
               <li>
-              <Router>
+        
                   <Link className={styles.link} to="/nhl">
                  NHL</Link>
-                  </Router>
+            
               </li>
               <li>
-              <Router>
+        
                   <Link className={styles.link} to="/mbl">
                  MBL</Link>
-                  </Router>
+                
               </li>
               <li>
-              <Router>
+        
                   <Link className={styles.link} to="/soccer">
                  SOCCER</Link>
-                  </Router>
+        
               </li>
            </ul>
         </nav>

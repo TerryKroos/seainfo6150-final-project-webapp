@@ -16,10 +16,8 @@ const ArticleItem = (props)=>{
            <img src={props.article.image} alt="article img"/>
            <div className={styles.articletext}>
               <time datetime="2018-11-22">{props.article.date}</time>
-              <Router>
               <Link className={styles.link}>
               {props.article.heading}</Link>
-              </Router>
            </div>
         </div>
         );

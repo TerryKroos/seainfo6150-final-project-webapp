@@ -11,13 +11,14 @@ const SideArticleItem = (props)=>{
         history.push('/article', {params: props.article})
     }
     return(
-      <div className={styles.container} onClick={handleSubmit}>
+      <div className={styles.container} onClick={() =>
+        {handleSubmit()}}>
          <img className={styles.img}src={props.article.image} alt="article img"/>
          <div className={styles.articletext}>
-           <Router>
+           
            <Link className={styles.link}>
             {props.article.heading }</Link>
-           </Router>
+      
             
          </div>
       </div>

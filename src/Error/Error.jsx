@@ -14,10 +14,8 @@ const Error = () => {
               <h1>That page doesn't exist!</h1>
               <p>
                  Sorry, the page you were looking for could not be found. Return to Home Page 
-                 <Router>
                  <Link className={styles.link} to="/">
                  here</Link>
-                 </Router>
               </p>
            </div>
            <Footer/>

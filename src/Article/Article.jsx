@@ -3,7 +3,6 @@ import styles from './Article.module.css';
 import SideArticleList from '../SideArticleList/SideArticleList.jsx';
 import NavBar from '../NavBar/NavBar.jsx';
 import Footer from '../Footer/Footer.jsx';
-import Ronaldo from '../images/ronaldo.jpg';
 import { useLocation } from "react-router-dom";
 
 const theArticle = {
