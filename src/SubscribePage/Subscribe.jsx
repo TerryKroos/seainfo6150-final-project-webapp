@@ -134,21 +134,21 @@ const Subscribe = () => {
                <form onSubmit={handleSubmit}>
                   <input className={styles.textInput} type="text"  name="firstName" placeholder="First Name" value={values.firstName} onChange={handleFirstNameInputChange} required/>
                   {submitted && !values.firstName && 
-                  <p className={styles.error}>Please enter a first name</p>
+                  <span className={styles.error}>Please enter a first name</span>
                   }
                   <input className={styles.textInput} type="text"  name="middleName" placeholder="Middle Name" value={values.middleName} onChange={handleMiddleNameInputChange}></input>
                   <input className={styles.textInput} type="text" name="lastName" placeholder="Last Name" value={values.lastName} onChange={handleLastNameInputChange} required></input>
                   {submitted && !values.lastName && 
-                  <p className={styles.error}>Please enter a last name</p>
+                  <span className={styles.error}>Please enter a last name</span>
                   }
                   <input className={styles.textInput} type="email" name="email" placeholder="E-mail"
                      value={values.email} onChange={handleEmailInputChange} pattern="/^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$/" required></input>
                   {submitted && !validateEmail(values.email) && 
-                  <p className={styles.error}>{emailErrorMessage(values.email)}</p>
+                  <span className={styles.error}>{emailErrorMessage(values.email)}</span>
                   }
                   <input className={styles.textInput} type="tel" id="phone" name="phone" placeholder="Telephone Number" value={values.telephone} onChange={handleTelephoneInputChange}></input>
                   {submitted && !validatePhone(values.phone) && 
-                  <p className={styles.error}>{phoneErrorMessage(values.phone)}</p>
+                  <span className={styles.error}>{phoneErrorMessage(values.phone)}</span>
                   }
                   <div>
                      <label className={styles.genderlabel}>Gender</label>
